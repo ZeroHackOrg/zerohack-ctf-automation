@@ -41,14 +41,7 @@ with CTF flag extraction.
 
 ## Quick Start
 
-```bash
-# From the monorepo root
-git clone https://github.com/ZeroHackOrg/zerohack-geek-tools.git
-cd zerohack-geek-tools && npm install
-npm run geek:ctf -- detect "aGVsbG8gd29ybGQ="
-```
-
-**Standalone:**
+### Standalone
 
 ```bash
 git clone https://github.com/ZeroHackOrg/zerohack-ctf-automation.git
